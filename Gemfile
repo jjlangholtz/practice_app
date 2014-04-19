@@ -4,6 +4,7 @@ ruby '2.1.1'
 gem 'rails', '4.1.0'
 gem 'bootstrap-sass'
 gem 'sprockets'
+gem 'bcrypt'
 gem 'pg', '0.15.1'
 
 group :development, :test do
